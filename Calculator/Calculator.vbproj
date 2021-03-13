@@ -4,7 +4,7 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>Calculator</RootNamespace>
-    <StartupObject>Calculator.Form1</StartupObject>
+    <StartupObject>Calculator.Form3</StartupObject>
     <UseWindowsForms>true</UseWindowsForms>
     <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
   </PropertyGroup>

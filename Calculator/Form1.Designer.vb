@@ -123,7 +123,7 @@ Partial Class Form1
         Me.Font = New System.Drawing.Font("Segoe UI", 9.5!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.ForeColor = System.Drawing.SystemColors.HighlightText
         Me.Name = "Form1"
-        Me.Text = "Calculator 1.0"
+        Me.Text = "Calculator v1"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
