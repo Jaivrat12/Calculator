@@ -55,6 +55,7 @@
 
         Calculate()
         Label1.Text = a
+        a = 0
 
     End Sub
 
