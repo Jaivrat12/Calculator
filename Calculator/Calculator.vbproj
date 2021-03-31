@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net5.0-windows</TargetFramework>
     <RootNamespace>Calculator</RootNamespace>
     <StartupObject>Calculator.Form3</StartupObject>
     <UseWindowsForms>true</UseWindowsForms>
